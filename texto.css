@@ -1,0 +1,21 @@
+body{
+    font-family: cursive;
+}
+h1{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    font-style: italic;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: underline red 4px dotted;
+}
+p{
+    text-align: justify;
+    text-transform: uppercase;
+    color: blueviolet;
+    line-height: 30px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    text-shadow: 5px 5px 5px rgb(0,0,0,0.2);
+}

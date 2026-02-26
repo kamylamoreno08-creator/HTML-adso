@@ -1,0 +1,48 @@
+/*
+*{
+    margin: 0;
+    padding: 0;
+    color: aqua
+}*/
+
+/*selectores simples
+h1{
+    color: aqua;
+}*/
+
+/*selectores de grupos
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,{
+    color: red;
+}*/
+
+/*selector descendente
+
+main p{
+    font-size:40px;
+}*/
+
+main p a{
+    font-size: 20px;
+    color:pink ;
+}
+
+.enlace{
+    color: red;
+}
+
+header .enlace{
+    font-size: 36px;
+    color: blueviolet;
+}
+
+#especial{
+    color: magenta;
+}
+.enlace{
+    color: skyblue;
+}
